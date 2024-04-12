@@ -1,2 +1,1 @@
-# yolov9_transparentObject
-:tada:
+# YoLov9 Object Detection for Transparent Object.
